@@ -1,0 +1,25 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vynkode/forkify.git"
+  },
+  "author": "Vynkode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vynkode/forkify/issues"
+  },
+  "homepage": "https://github.com/Vynkode/forkify#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.0-beta.2",
+    "parcel": "^2.0.0-beta.2",
+    "sass": "^1.26.10"
+  }
+}

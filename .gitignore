@@ -105,3 +105,6 @@ dist
 
 #InteliJ
 .idea
+
+package-lock.json
+.parcel-cache
